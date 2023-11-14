@@ -19,8 +19,8 @@ github.com/appscodelabs/license-bill-of-materials v0.0.0-20220707232035-6018e0c5
 github.com/bitfield/gotestdox v0.2.1 h1:Zj8IMLAO5/oiAKoMmtN96eyFiPZraJRTH2p0zDgtxc0=
 github.com/bitfield/gotestdox v0.2.1/go.mod h1:D+gwtS0urjBrzguAkTM2wodsTQYFHdpx8eqRJ3N+9pY=
 github.com/bmatcuk/doublestar/v4 v4.0.2/go.mod h1:xBQ8jztBU6kakFMg+8WGxn0c6z1fTSPVIjEY1Wr7jzc=
-github.com/bmatcuk/doublestar/v4 v4.6.0 h1:HTuxyug8GyFbRkrffIpzNCSK4luc0TY3wzXvzIZhEXc=
-github.com/bmatcuk/doublestar/v4 v4.6.0/go.mod h1:xBQ8jztBU6kakFMg+8WGxn0c6z1fTSPVIjEY1Wr7jzc=
+github.com/bmatcuk/doublestar/v4 v4.6.1 h1:FH9SifrbvJhnlQpztAx++wlkk70QBf0iBWDwNy7PA4I=
+github.com/bmatcuk/doublestar/v4 v4.6.1/go.mod h1:xBQ8jztBU6kakFMg+8WGxn0c6z1fTSPVIjEY1Wr7jzc=
 github.com/braydonk/yaml v0.7.0 h1:ySkqO7r0MGoCNhiRJqE0Xe9yhINMyvOAB3nFjgyJn2k=
 github.com/braydonk/yaml v0.7.0/go.mod h1:hcm3h581tudlirk8XEUPDBAimBPbmnL0Y45hCRl47N4=
 github.com/chzchzchz/goword v0.0.0-20170907005317-a9744cb52b03 h1:0wUHjDfbCAROEAZ96zAJGwcNMkPIheFaIjtQyv3QqfM=
